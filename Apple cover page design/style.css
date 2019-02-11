@@ -1,0 +1,279 @@
+
+
+.manu-area{
+	
+	    position: fixed;
+    height: 37px;
+    width: 100%;
+    background-color: #313131;
+    z-index: 1;
+}
+
+
+.menu{
+
+	
+	padding-top: 4px;
+}
+.menu a {
+
+	margin-top: 10px;
+	text-decoration: none;
+	color: #f5f5f5;
+	margin-left: 30px;
+}
+
+.first-containt{
+	height: 300px;
+	background-color: black;
+}
+
+.first-containt-2{
+	background-color: black;	
+}
+
+.first-containt-3{
+	background-color: black;	
+}
+.button {
+	margin-top: 100px;
+}
+.button a{
+	    
+	padding: 11px 18px;
+  	border-radius: 7%;
+    color: gray;
+    border: 1px solid #fff;
+    text-decoration: none;
+    color: gray;
+    font-size: 19px;
+}
+
+.text-area-1 p, h4{
+
+	text-align: center;
+	color: #fff;
+}
+.text-area-1 p{
+margin-left: -63px;
+font-size: 20px;
+
+}
+.text-area-1 h4{
+	font-size: 32px;
+	margin-top: 30px;
+}
+
+.buy-now {
+	text-align: center;
+}
+
+.buy-now a{
+	font-size: 20px;
+}
+.buy-now a i{
+	margin-left: 5px;
+	font-size: 18px;
+}
+
+.box-1{
+	height: 15px;
+	background-color: #222222;
+}
+
+.text-area-1 img{
+	margin-left: 20px;
+	height: 72px;
+    width: 359px;
+    margin-top: 53px;
+}
+
+.text-area-1 h6{
+	text-align: center;
+	color: #fff;
+	margin-left: -63px;
+	font-size: 20px;
+}
+
+.buy-now{
+	margin-left: -81px;
+}
+
+.buy-now a{
+	padding-left: 10px;
+}
+
+.iphone-1 img{
+	margin-left: -12px;
+	height: 54px;
+}
+
+.iPhone-img-2 img{
+	margin-left: 52px;
+    margin-top: 61px;
+}
+
+.text-box{
+	height: 100px;
+	background-color: black;
+}
+
+.text p{
+	text-align: center;
+    color: #fff;
+    margin-top: 3%;
+    font-size: 19px;
+}
+
+.full-image img{
+	margin-top: 10px;
+	width: 100%;
+}
+
+.gift h1 b{
+	font-size: 47px;
+	position: absolute;
+    margin-top: -601px;
+    color: black;
+}
+
+.shop{
+	position: absolute;
+    margin-top: -550px;
+    margin-left: 137px;
+    font-size: 25px;
+}
+
+.shop a{
+
+	padding-left: 10px;
+}
+
+.mackbook img{
+	height: 197%;
+    width: 103%;
+}
+
+.ipad img{
+	height: 197%;
+    width: 100%;
+}
+
+
+.mackbook h1{
+	position: absolute;
+	margin-left: 32%;
+	
+}
+.mackbook p{
+	margin: 7% 36%;
+	position: absolute;
+	
+}
+.mackbook a{
+
+	margin: 11% 42%;
+	position: absolute;
+	
+}
+
+
+
+
+.ipad h1{
+	position: absolute;
+	margin-left: 36%;
+	
+}
+.ipad p{
+	margin: 7% 31%;
+	position: absolute;
+	
+}
+.ipad a{
+	margin: 11% 42%;
+	position: absolute;
+	
+}
+
+.box-image-1{
+	margin-top: 346px;
+}
+
+.clock{
+		height: 600px;
+		background-color: black;
+}
+
+
+.clock a{ 
+		margin: 1% 42%;
+		text-align: center; 
+}
+
+.clock h1{
+	margin-top: 6%;
+	text-align: center; 
+	color: #fff;	
+}
+
+.clock p{ 
+	text-align: center; 
+	color: #fff;		
+}
+.clock img{
+	margin-left: 30%;
+    height: 400px;
+    margin-top: 4%;
+}
+
+.apps{
+	
+}
+
+.apps a{ 
+		margin: 1% 39%;
+		text-align: center; 
+}
+
+.apps h1{
+	margin-top: 6%;
+	text-align: center; 
+		
+}
+
+.apps p{ 
+	text-align: center; 
+			
+}
+
+
+.foter-area{
+	margin-top: 10px;
+	background-color: #F2F2F2;
+}
+
+.p-text p{
+	margin-top: 12px;
+	font-size: 10px;
+}
+
+.p-text h6{
+	margin-top: 12px;
+	font-size: -10px;
+}
+
+.link a{
+	color: gray;
+	
+	float: left;
+}
+
+
+.foter-text{
+	height: 57px;
+}
+.foter-text p{
+	color: darkgray;
+	text-align: center;
+}
