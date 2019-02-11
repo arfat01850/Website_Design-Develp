@@ -1,0 +1,311 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+.logo img{
+	margin-top: 27px;
+	height: 22px;
+    width: 89px;
+}
+
+body, html{
+	height: 100%;
+}
+
+.header{
+
+	border-bottom: 1px solid gainsboro;
+	height: 80px;
+}
+.menu ul{}
+.menu li{
+	padding: 8px 19px;
+    margin-left: 10px;
+    float: left;
+    list-style: none;
+}
+
+.menu li:hover{
+	
+	transition: 1s;
+	border-bottom: 3px solid black;
+}
+.menu li a{
+
+	color: black;
+    
+    text-decoration: none;
+}
+
+.log-in{
+
+	float: right;
+	
+}
+.log-in li{
+	padding: 8px 19px;
+   
+    float: left;
+    list-style: none;
+}
+.log-in li a{
+	
+	color: black;
+   
+    text-decoration: none;
+}
+.log-in a i{
+	
+	margin-top: 14px;
+    color: black;
+    
+    text-decoration: none;
+}
+
+.nav-text h1{
+	font-size: 27px;
+}
+
+.second-menu{
+
+	float: right;
+}
+.second-menu ul li{
+	padding: 0px 19px;
+   
+    float: left;
+    list-style: none;
+}
+
+.second-menu ul li:hover{
+	transition: 1s;
+	border-top: 3px solid black;
+}
+.second-menu ul li a{
+	color: black;
+   
+    text-decoration: none;
+}
+
+.second-nav{
+	
+    height: 57px;
+    padding-top: 11px;
+    background-color: #fff;
+   
+   
+   
+
+}
+
+.second-nav:hover{
+	position:sticky; 
+	background-color: darkgray;
+    
+}
+.float-right {
+	float: right;
+}
+
+.text-area h3{
+	font-size: 12px;
+}
+
+
+.first-contant{
+	width: 100%;
+	height: 2212px;
+	background: url(img/bannar.jpg) no-repeat scroll center center/cover;
+
+}
+
+.text-area-2 h1 {
+    
+    font-size: 64px;
+    color: #F5C7B0;
+}
+
+.text-area-2 h2 {
+    color: #fff;
+    font-size: 54px;
+   
+}
+
+.text-area-2 h3 {
+   
+    font-size: 34px;
+    color: #C16653;
+}
+
+.text-area-2 {
+    margin-top: 200px;
+}
+
+
+
+
+.bottom-text p{
+	margin-top: 49px;
+    width: 1070px;
+    font-size: 26px;
+	color: #fff;
+	text-align: justify;
+	border-bottom: 0px;
+	
+}
+
+.bottom-text {
+    margin-top: 1249px;
+}
+
+.design-area{
+	background-color: #000000;
+}
+
+.design-text h6 {
+    color: #9C5241;
+    font-weight: 900;
+    font-size: 28px;
+}
+
+.design-text h2 {
+    line-height: 3;
+    color: #fff;
+    font-size: 43px;
+}
+
+.design-text p {
+    letter-spacing: 2px;
+    color: darkgray;
+    font-size: 23px;
+}
+
+
+.design-text-area span{
+	font-size: 20px;
+}
+.design-text-area h1{
+	    color: #9C5241;
+    font-size: 55px;
+}
+.design-text-area p{
+	    color: lightgray;
+    font-size: 20px;
+}
+
+
+
+
+.image-section{
+	
+	background-color: black;
+}
+
+
+
+.image-area img{
+	margin-top: 50px;
+	width: 100%;
+	
+	
+}
+
+.section-text h6{
+	font-family: serif;;
+	font-size: 25px;
+    color: darkcyan;
+    text-shadow: 5px 5px 8px #082A54;
+
+}
+.section-text h6 span{
+	margin-left: 83px;
+    font-size: 25px;
+    color: #fff;
+}
+
+.section-text p{
+	color: currentColor;
+    font-size: 21px;
+    font-family: inherit;
+}
+    
+
+
+.section-text p span{
+	margin-left: 83px;
+    
+   
+}
+
+.another-text-area{
+	margin-top: 200px;
+}
+.another-text-area h5{
+
+	
+    color: #9C5241;
+    font-weight: 900;
+    font-size: 28px;
+}
+.another-text-area h1{
+	 line-height: 3;
+    color: #fff;
+    font-size: 43px;
+}
+.another-text-area p{
+	letter-spacing: 2px;
+    color: darkgray;
+    font-size: 23px;
+    margin-bottom: 50px;
+}
+
+.line{
+	margin-top: -11px;
+}
+.line h1{
+margin-top: -25px;
+}
+
+.line h6{
+	padding-bottom: 10px;
+	color: #fff;
+}
+
+.cover-area{
+	
+	height:675px;
+	width: 100%;
+	background: url(img/nb1.jpg)  no-repeat scroll center center/cover;
+}
+
+.another-text-area a{
+	color: #9C5241;
+}
+
+.margin-top{
+	margin-top: 30px;
+}
+
+.line-sodo{
+	margin-top: 0px;
+}
+.line-sodo h1{
+margin-top: 0px;
+}
+
+.laptop-img{
+
+}
+.cover-area-1{
+	height: 800px;
+	background: url(img/laptop.jpg)  no-repeat scroll center center/cover;
+	width: 100%;
+}
+
+.text-center p{
+	margin-top: -10px;
+	color: #ffff;
+}
+
