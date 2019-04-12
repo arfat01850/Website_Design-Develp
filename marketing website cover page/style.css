@@ -1,0 +1,344 @@
+/* Base CSS */
+.alignleft {
+    float: left;
+    margin-right: 15px;
+}
+.alignright {
+    float: right;
+    margin-left: 15px;
+}
+.aligncenter {
+    display: block;
+    margin: 0 auto 15px;
+}
+a:focus { outline: 0 solid }
+img {
+    max-width: 100%;
+    height: auto;
+}
+.fix { overflow: hidden }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 15px;
+    font-weight: 700;
+}
+html,
+body { height: 100% }
+
+
+.test {font-family: 'Lato', sans-serif;}
+a {
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    color: #333;
+}
+a:hover { text-decoration: none }
+
+
+.float-right{
+
+    float: right;
+}
+
+
+.logo h4{
+   
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: auto;
+    font-style: italic;
+}
+.logo p{
+
+    font-size: 11px;
+    font-family: monospace;
+    font-style: italic;
+    line-height: 0px;
+}
+
+.menu-logo, .logo{
+     margin-top: 50px;
+     margin-bottom: -110px;
+}
+
+.menu-logo i{
+    color: #fff;
+    font-size: 20px;
+}
+.welcome-area, .header-text-area, .header-text{
+    height: 100%;
+}
+.header-text-table{
+   
+    height: 100%;
+    display: table;
+    width: 100%;
+
+   }
+.header-text-table-cell{
+    display: table-cell;
+    vertical-align: middle;
+    
+}
+.welcome-area{
+    
+    color: #fff;
+    position: relative;
+    background-image: url(img/clock.jpg);
+    background-attachment: fixed;
+   background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;  
+}
+
+.header-area{
+    opacity: 0.8;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: #080808;
+}
+.head-text h1{
+    font-weight: 900;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+
+.bottom-text{
+   position: absolute;
+   margin-top: 200px;
+    display: inline-table;
+}
+.bottom-text h5{
+    line-height: 0px;
+    text-transform: uppercase;
+}
+.introduction-area{
+    margin:50px 0px;
+}
+
+
+.int-text h1{
+    font-weight: 400;
+    margin-bottom: 80px;
+    font-family: lato;
+}
+.int-text p{
+    font-size: 13px;
+    font-family: lato;
+    padding: 0px 100px;
+}
+
+.free-download-area{
+    background-attachment: fixed;
+    height: 300px;
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#1e5799+0,2989d8+50,207cca+51,7db9e8+100;Blue+Gloss+Default */
+background: rgb(30,87,153); /* Old browsers */
+background: -moz-linear-gradient(left, rgba(30,87,153,1) 0%, rgba(41,137,216,1) 50%, rgba(32,124,202,1) 51%, rgba(125,185,232,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(left, rgba(30,87,153,1) 0%,rgba(41,137,216,1) 50%,rgba(32,124,202,1) 51%,rgba(125,185,232,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to right, rgba(30,87,153,1) 0%,rgba(41,137,216,1) 50%,rgba(32,124,202,1) 51%,rgba(125,185,232,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#7db9e8',GradientType=1 ); /* IE6-9 */
+}
+
+.download-text{
+
+    margin-top: 50px;
+}
+
+.download-text a{
+    font-size: 16px;
+    padding: 10px 55px;
+    border: 1px solid #fff;
+   
+    line-height: 10;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.download-text p{
+    color: #fff;
+}
+
+.about-area{
+    color: #fff;
+    padding: 50px;
+    background-color: #303030;
+}
+
+
+
+.about-text p {
+    font-size: 15px;
+    font-family: -webkit-pictograph;
+    margin-top: 50px;
+    letter-spacing: 1px;
+}
+
+
+.about-icon i{
+    color: black;
+    font-size: 24px;
+    padding: 14px 17px;
+    float: left;
+    background-color: #ffff;
+    border-radius: 100%;
+
+}
+
+.about-icon{
+    margin-top: 50px;
+   
+}
+.about-icon h5{
+    float: left;
+    padding-left: 9px;
+    padding-top: 8px;
+}
+.about-icon p{
+    float: left;
+    padding-left: 10px;
+    margin-top: -14px;
+     margin-bottom: 50px;
+}
+
+.service-area{
+    color: #fff;
+    padding: 50px;
+    background-color: #00b894;
+}
+.service-text h1{
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.service-icon i{
+    color: black;
+}
+
+
+.service-icon i{
+    float: left;
+    padding: 10px 12px;
+    background-color: #070a0a;;
+    color: #fff;
+}
+.service-icon h6 {
+    font-family: initial;
+    font-size: 14px;
+    padding: 13px 46px;
+}
+.service-icon p{
+    padding-bottom: 30px;
+    text-align: justify;
+}
+.feture-work{
+    background-color: black;
+    padding: 50px;
+}
+.work{
+    text-align: center;
+    color: #ffff;
+  
+
+}
+
+.work h1{
+      padding-bottom: 50px;
+}
+
+.work a{
+    margin-left: 12px;
+    color: #fff;
+    border: 1px solid;
+    padding: 11px 33px;
+}
+
+.work a:hover{
+
+  border-radius: 0px 15px 0px 15px;
+    background-color: #0017ff;;
+}
+
+
+.img img{
+    width: 100%;
+    height: 300px;
+    padding-bottom: 20px;
+}
+
+.about{
+    text-align: center;
+    padding: 50px;
+}
+
+.men-img{
+padding-bottom: 50px;
+}
+.men-picture img{
+   
+    height: 300px;
+    
+}
+.men-img h4{
+    padding-top: 9px;
+    font-family: cursive;
+}
+.men-img p{
+    font-family: monospace;
+    margin-top: -12px;
+    color: darkorange;
+    font-size: 15px;
+    font-style: italic;
+}
+
+.contact-area{
+    
+    background-color: #3000ff;
+    padding: 50px;
+}
+.contact-area:hover{
+   background-color: #0fef70;
+   transition: 2s;
+}
+
+.contact-text{
+     padding-bottom: 50px;
+    text-align: center;
+}
+.contact-text p{
+    letter-spacing: 1px;
+    color: #fff;
+    font-size: 20px;
+    padding: 73px;
+}
+.contact-text a{
+    color: #fff;
+    border: 1px solid;
+    padding: 13px 30px;
+    font-size: 22px;
+    font-family: -webkit-body;
+
+}
+.contact-text a:hover{
+    transition: 2s;
+   background-color: #20c6f5;
+    border-radius: 0px 26px 0px 26px;
+    border: 1px solid #2dbd43;
+}
+
+.foter-area{
+    padding: 20px;
+    background-color: black;
+}
+.foter{
+    text-align: center;
+    color: #fff;
+}
